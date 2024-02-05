@@ -63,3 +63,7 @@ decr--;
 
 console.log(incr);
 console.log(decr);
+
+let number = 5;
+let stringNumber = "8";
+console.log(number + +stringNumber);
